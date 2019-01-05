@@ -1,0 +1,53 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 170571911,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 634010695,
+          "is_bot": false,
+          "first_name": "Antonio",
+          "last_name": "Lukarelli"
+        },
+        "chat": {
+          "id": 634010695,
+          "first_name": "Antonio",
+          "last_name": "Lukarelli",
+          "type": "private"
+        },
+        "date": 1545329036,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 170571912,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 634010695,
+          "is_bot": false,
+          "first_name": "Antonio",
+          "last_name": "Lukarelli",
+          "language_code": "uk"
+        },
+        "chat": {
+          "id": 634010695,
+          "first_name": "Antonio",
+          "last_name": "Lukarelli",
+          "type": "private"
+        },
+        "date": 1545330062,
+        "text": "привет"
+      }
+    }
+  ]
+}
